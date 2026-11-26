@@ -1,0 +1,7 @@
+book_id,title,edition,author,genre,status,times_issued,issue_date
+1,Python Crash Course,2,Eric Matthes,Programming,Available,3,
+2,Wings of Fire,1,A.P.J. Abdul Kalam,Biography,Available,5,
+3,Introduction to Algorithms,3,Thomas Cormen,Programming,Available,2,
+4,The Alchemist,1,Paulo Coelho,Fiction,Available,4,
+5,Clean Code,1,Robert Martin,Programming,Available,1,
+6,The India Way,1,Dr.Subramanyam Jaishankar,Geopolitics,Available,0,
